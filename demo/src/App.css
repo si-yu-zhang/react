@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+} 
+
+.username {
+    margin-top: 100px;
+}
+
+.password {
+    margin-top: 10px;
+}
+
+.btn-group {
+    margin-top: 20px;
+}
+
+.commentlist {
+    margin-top: 50px;
+}
